@@ -1,2 +1,2 @@
 # Small-Projects
-Learning and Implementing what I have learnt1
+Learning and Implementing what I have learnt
