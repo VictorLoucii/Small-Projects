@@ -12,3 +12,6 @@
 
 ## Project 4: Number Guessing Game
 [Click here](https://stackblitz.com/edit/stackblitz-starters-sfdxbm7h?file=script.js) to view the project.
+
+## Project 5: starting and stopping the interval of changing background color
+[Click here](https://stackblitz.com/edit/stackblitz-starters-7ac6fggt?file=index.html) to view the project.
