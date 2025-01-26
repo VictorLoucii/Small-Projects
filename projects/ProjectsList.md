@@ -15,3 +15,6 @@
 
 ## Project 5: starting and stopping the interval of changing background color
 [Click here](https://stackblitz.com/edit/stackblitz-starters-7ac6fggt?file=index.html) to view the project.
+
+## Project 6: Keypress Tracker
+[Click here](https://stackblitz.com/edit/stackblitz-starters-meabscsu?file=index.html) to view the project.
